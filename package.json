@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/josecarlosweb/js-tdd/issues"
   },
-  "homepage": "https://github.com/josecarlosweb/js-tdd#readme"
+  "homepage": "https://github.com/josecarlosweb/js-tdd#readme",
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  }
 }
