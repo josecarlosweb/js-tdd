@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Library to learn tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josecarlosweb/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Carlos Carvalho <jcarloss.carvalho@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josecarlosweb/js-tdd/issues"
+  },
+  "homepage": "https://github.com/josecarlosweb/js-tdd#readme"
+}
