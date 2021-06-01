@@ -1,3 +1,7 @@
 const a = 3;
 
-console.log("a");
+function demo() {
+  return a;
+}
+
+demo();
